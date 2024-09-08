@@ -1,11 +1,11 @@
-/* Reset some default styles */
+<!--https://github.com/justinaala/BSCS-2D-AALA-JUSTIN-S./blob/3084142a1fe23d8ea98e7983032c4028b0eba7ae/new%20menu/assets/css/style1.css-->
 body, h1, form {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-/* Center the form on the page */
+
 body {
     font-family: Arial, sans-serif;
     display: flex;
